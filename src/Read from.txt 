@@ -1,0 +1,28 @@
+public class void main(String []args)
+
+public static string read
+scanner scan = new File
+
+
+import java.in.file
+import java in.exception
+import java.util.Scanner;
+
+public static String [] read()throws IDException {
+    Strings [] words = new String [9];
+    Scanner scan = new Scanner(new File
+    int count = 0
+    while (scan has nextint
+
+    public static void main(String[] args) throws IDException {
+    String [] arr = read();
+
+
+    }
+}
+public static void write(String [] arr) throws IDException {
+FileWriter fw = new FileWriter ("file/Writer.txt");
+for (String word : arr) {
+    fw.write (Word + " ";
+    fw.close();
+    Write(arr);
